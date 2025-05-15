@@ -1,0 +1,8 @@
+input.form-control {
+    box-shadow: none !important;
+    border-color: #ddd !important;
+}
+
+span.category-desc {
+    font-weight: 700;
+}
